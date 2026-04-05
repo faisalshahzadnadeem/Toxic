@@ -1,8 +1,3 @@
-Here is a fully detailed, professional `README.md` file for your repository. It covers the architecture, detailed setup instructions, project structure, and usage guidelines. 
-
-You can copy this entire block and save it as `README.md` in your project folder.
-
-```markdown
 # 🛡️ Toxic Guard: AI-Powered Poisoning Triage System
 
 **Toxic Guard** is an advanced, AI-assisted clinical decision support tool designed to analyze toxicology and poisoning cases in real-time. By leveraging a Hybrid Retrieval-Augmented Generation (RAG) architecture, it cross-references patient symptoms against localized medical documents and live web data to provide rapid, explainable triage recommendations.
