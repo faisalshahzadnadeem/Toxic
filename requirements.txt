@@ -1,0 +1,7 @@
+streamlit
+cohere
+faiss-cpu
+numpy
+pypdf
+langchain-text-splitters
+python-dotenv
