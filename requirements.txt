@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+cohere>=5.3.0
+faiss-cpu
+pydantic
+python-dotenv
+langchain-text-splitters
+pypdf
+numpy
+streamlit==1.32.0
+requests==2.31.0
+plotly==5.19.0
+pandas==2.2.0
+streamlit-option-menu==0.3.6
